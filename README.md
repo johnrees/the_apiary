@@ -1,2 +1,4 @@
-the_apiary
+The APIary
 ==========
+
+My Fab Academy Final Project.
